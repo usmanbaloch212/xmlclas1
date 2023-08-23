@@ -1,1 +1,22 @@
-<?xml version="1.0" incoding="nft-8"?>
+<?xml version="1.0" incoding="utf-8"?>
+<health xmlns:physical="namespace" xmlns:mental="namespace1" xmlns:social="namespace2">
+<physical:Health category="physical">
+<flexibility></flexibility>
+<bodycomposition></bodycomposition>
+<muscularstrength></muscularstrength>
+</Health>
+<mental:Health category="mental">
+<Depression></Depression>
+<Paranoia></Paranoia>
+<Anxietydisorders></Anxietydisorders>
+</Health>
+<social:Health category="social">
+<flexibility></flexibility>
+<bodycomposition></bodycomposition>
+<muscularstrength></muscularstrength>
+
+</Health>
+
+
+</health>
+ 
